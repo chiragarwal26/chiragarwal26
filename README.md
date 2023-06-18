@@ -48,9 +48,9 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <br>
-<h2>😄 Have fun ! </h2>
+<h2>😄 Have fun </h2>
 <br>
-<p align="centre">
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
