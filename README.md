@@ -50,14 +50,14 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 <br>
 <h2>😄 Have fun ! </h2>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ## 🏆 Github Stats
 <p align="left">
-<a href="https://github.com/chiragarwal26/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=chiragarwal26&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
-<a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=chiragarwal26&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
+<a href="https://github.com/chiragarwal26/github-readme-stats"><img height="350px" width="450px" src="https://github-readme-stats.vercel.app/api?username=chiragarwal26&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
+<a href="https://git.io/streak-stats"><img align="right" height="350px" width=450px" src="http://github-readme-streak-stats.herokuapp.com?user=chiragarwal26&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
 </p>
 
 <br><br>
