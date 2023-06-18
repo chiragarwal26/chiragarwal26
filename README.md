@@ -40,6 +40,7 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 ![SQL](https://img.shields.io/badge/sql-%23593d88.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23007ACC.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/excel-%2331A8FF.svg?style=for-the-badge&logo=excel&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/matlab-%23593d88.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
