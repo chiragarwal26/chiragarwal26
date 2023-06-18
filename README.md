@@ -50,7 +50,7 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 <br>
 <h2>😄 Have fun ! </h2>
 <br>
-<p align="left">
+<p align="centre">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
