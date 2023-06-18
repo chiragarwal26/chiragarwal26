@@ -64,7 +64,6 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 <a href="https://github.com/chiragarwal26/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=chiragarwal26&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
 <a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=chiragarwal26&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
 </p>
-<a href="https://github.com/chiragarwal26/github-readme-activity-graph"><img alt="Chirag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiragarwal26&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
 
 <br><br>
 <p align="center">
