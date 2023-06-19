@@ -18,7 +18,7 @@
 </p>
 <br>
 
-I'm a pre-final year undergraduate student majoring in Electronics & Communication with an interest in A.G.I., NLP, and Problem Solving. Currently, I am working on Tableau, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in SQL, Python, C++, HTML, Excel, PowerBI, Tableau, Jupyter, Colab, MATLAB. and currently I am working on some EDA projects.
+I'm a pre-final year undergraduate student majoring in Electronics & Communication with an interest in A.G.I., NLP, and Problem Solving. Currently, I am working on Tableau, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in SQL, Python, C++, HTML, Excel, PowerBI, Tableau, BeautifulSoup, Jupyter, Colab, MATLAB. and currently I am working on some EDA projects.
 <br>
 <br>
 <br>
@@ -39,6 +39,7 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 ![PowerBI](https://img.shields.io/badge/powerBI-%231572B6.svg?style=for-the-badge&logo=powerBI&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23593d88.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23007ACC.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-3670A0?style=for-the-badge&logo=beautifulsoup&logoColor=54ff98)
 ![Excel](https://img.shields.io/badge/excel-%2331A8FF.svg?style=for-the-badge&logo=excel&logoColor=%2361DAFB)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/matlab-%23593d88.svg?style=for-the-badge&logo=matlab&logoColor=white)
@@ -46,6 +47,7 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 
 <br>
 <h2>😄 Have fun </h2>
