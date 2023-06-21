@@ -50,13 +50,13 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 
 
 <br>
-<h2>😄 Have fun </h2>
+<h2>😄 Have bit fun </h2>
 <br>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
-## 🏆 Github Stats
+## 🏆 My Github Stats
 <p align="left">
 <a href="https://github.com/chiragarwal26/github-readme-stats"><img height="250px" width="350px" src="https://github-readme-stats.vercel.app/api?username=chiragarwal26&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
 <a href="https://git.io/streak-stats"><img align="right" height="250px" width=350px" src="http://github-readme-streak-stats.herokuapp.com?user=chiragarwal26&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
