@@ -25,7 +25,7 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
-- 🔭 I’m currently working on Tableau <br>
+- 🔭 I’m currently working on DATA Visualization <br>
 - 🌱 I’m currently learning EDA <br>
 - 👯 I’m looking to collaborate on DATA Driven Projects  <br>
 - 📫 How to reach me: chiragarwalofficial@gmail.com <br>
