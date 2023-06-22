@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-agarwal-000351247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/chiragarwalofficial/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<!--   <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+  <a href="https://chiragarwal26.github.io/chiragarwal.github.io/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white"></a> -->
 </p>
 <br>
 
@@ -29,6 +29,7 @@ I'm a pre-final year undergraduate student majoring in Electronics & Communicati
 - 🌱 I’m currently learning EDA <br>
 - 👯 I’m looking to collaborate on DATA Driven Projects  <br>
 - 📫 How to reach me: chiragarwalofficial@gmail.com <br>
+- 👨‍💼 My Portfolio: https://chiragarwal26.github.io/chiragarwal.github.io/ 
 
 <br><br>
 
