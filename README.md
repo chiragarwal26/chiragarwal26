@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-agarwal-000351247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/chiragarwalofficial/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://auth.geeksforgeeks.org/user/chiragarwalofficial/"><img src="https://img.shields.io/badge/-GeeksForGeeks-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://chiragarwal26.github.io/chiragarwal.github.io/"><img src="https://img.shields.io/badge/My Portfolio-1DA1F2?style=for-the-badge&logo=My portfolio&logoColor=white"></a>
 </p>
 <br>
