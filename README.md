@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=50&center=true&vCenter=true&width=550&height=70&lines=I'm+Chirag+Agarwal;A+DATA+Enthusiast;A+Student+Developer;A+Problem+Solver+🤔;A+MARVEL+Fanboi">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9648F4&size=50&center=true&vCenter=true&width=550&height=70&lines=I'm+Chirag+Agarwal;A+DATA+Enthusiast;A+Student+Developer;A+Problem+Solver+🤔;A+MARVEL+Fanboi">
 </p>
 
 
